@@ -21,7 +21,7 @@ Nora is a private, offline AI you run right on your Mac. **Chat by text or by vo
 
 ## ⬇️ Install (one time, ~15–30 min depending on your internet)
 
-1. **Download** the zip from this page (green **Code** button → **Download ZIP**), then double-click it to unzip.
+1. **Download** [`Nora-Installer.zip` from the latest Release](https://github.com/Ducknac999/Nora/releases/latest), then double-click it to unzip. *(Use this rather than the green "Code" button — it keeps the apps working correctly.)*
 2. **Right-click** `Install Nora` → click **Open**.
    > 🛈 The first time, macOS shows *"can't be opened because Apple cannot check it…"* — that's normal for free apps. Just **right-click → Open** and choose **Open** on the popup. You only do this once.
 3. Let it run. It **auto-detects your RAM** and downloads the right AI model, the voice engine, and everything else. *(Internet needed for this step only.)*
