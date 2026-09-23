@@ -48,11 +48,12 @@ Everything is offline. You can turn off Wi-Fi and Nora still works.
 
 ## 🖼️ Optional: add Vision (image understanding)
 
-Vision is a separate add-on so the base app stays small and light.
+Vision is a separate add-on so the base app stays small and light. **Install the base Nora first.**
 
-1. **Right-click** `Install Vision Update` → **Open**.
-2. It downloads the right vision model for your RAM.
-3. Next time you open **`Nora`**, there's a **Vision** tab at the top — attach an image and ask about it.
+1. Download **`Vision-Update.zip`** from the [latest Release](https://github.com/Ducknac999/Nora/releases/latest) → unzip.
+2. **Right-click** `Install Vision Update` → **Open**.
+3. It downloads the right vision model for your RAM.
+4. Next time you open **`Nora`**, there's a **Vision** tab at the top — attach an image and ask about it.
 
 Don't want it? Just don't install it. To remove it later, delete the `~/Nora/vision` folder.
 
