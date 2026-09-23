@@ -1,0 +1,2 @@
+#!/bin/bash
+open -a Terminal "$HOME/Nora/start-nora.sh"

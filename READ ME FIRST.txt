@@ -1,0 +1,31 @@
+========================================
+  NORA — your offline AI assistant
+========================================
+
+SETUP (only takes a few minutes, one time):
+
+1. RIGHT-CLICK  "Install Nora"  ->  click  "Open".
+   (macOS shows a warning the first time — click "Open" to continue.
+    You only ever do this once.)
+
+2. Let it finish. It downloads everything for your Mac automatically.
+   You need internet for THIS step only. After that, Nora is fully offline.
+
+3. When it says "NORA IS INSTALLED":
+   - Drag the  "Nora"  icon into your Dock.
+   - Drag the  "Stop Nora"  icon into your Dock too.
+
+DAILY USE:
+
+   - Click  "Nora"       ->  turns the AI ON  (a window opens).
+   - Click  "Stop Nora"  ->  turns it OFF  (or just close the window).
+
+That's it. Nora runs 100% on your Mac, no internet needed.
+
+----------------------------------------
+Want image understanding too? (optional)
+Right-click "Install Vision Update" -> Open, let it finish.
+Next time you open Nora, you'll see a "Vision" tab.
+----------------------------------------
+
+Full guide + video: see the GitHub page you downloaded this from.
